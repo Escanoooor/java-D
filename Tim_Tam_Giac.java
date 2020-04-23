@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-public class Tim_Tam_Giac {
 public static void Check_tam_giac(float a, float b, float c)
 { 
 	if(a+b > c || a+c> c || b+c > a)
